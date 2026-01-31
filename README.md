@@ -29,6 +29,6 @@ typedef struct {
 - Since, it uses regex. Every valid regular expression can be used.
 
 ### How to use?
-compile: `gcc main.c -o grep -lmaigc`
+compile: `gcc main.c -o grep -lmagic`
 use: `./grep -w pattern test.txt`
 
